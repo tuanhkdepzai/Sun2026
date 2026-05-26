@@ -1,0 +1,16 @@
+{
+  "name": "sunwin-ai-bot",
+  "version": "1.0.0",
+  "description": "He thong phan tich Tai Xiu AI 21 Models",
+  "main": "sun.js",
+  "scripts": {
+    "start": "node sun.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  },
+  "author": "@thanhnhatx",
+  "license": "ISC"
+}
